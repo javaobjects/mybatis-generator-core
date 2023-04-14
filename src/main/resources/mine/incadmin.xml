@@ -43,7 +43,7 @@
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
                         connectionURL="jdbc:mysql://127.0.0.1:3306/inc?characterEncoding=UTF-8"
                         userId="root"
-                        password="root">
+                        password="123456">
             <!-- 设置 useInformationSchema 属性为 true -->
             <property name="useInformationSchema" value="true" />
         </jdbcConnection>
